@@ -1,4 +1,8 @@
 first line
 second line
+<<<<<<< HEAD
 
+=======
+third line
+>>>>>>> main
 fourth line
